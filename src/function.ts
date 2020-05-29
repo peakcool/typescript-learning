@@ -3,7 +3,7 @@
  * Function Declaration
  */
 
- function sum(x: number, y: number): number {
+ function sumF(x: number, y: number): number {
      return x + y;
  }
 
